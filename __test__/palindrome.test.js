@@ -1,4 +1,4 @@
-const reverse = require('../palindrome')
+const reverse = require('../03-palindrome')
 describe('Palindrome Test',()=>{
     test('it return true when keyword stay same after reverse',()=>{
         const array = 'katak'

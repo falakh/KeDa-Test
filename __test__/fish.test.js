@@ -1,4 +1,4 @@
-const fish = require('../fish')
+const fish = require('../01-fish')
 describe('Run Fish Test',()=>{
     afterEach(() => {    
         jest.clearAllMocks();

@@ -1,4 +1,4 @@
-const sort = require('../sort-array')
+const sort = require('../02-sort-array')
 describe('sort array test',()=>{
     test('it shoud sorted',()=>{
         const array = [1,3,4,7,3,4,2,1]
